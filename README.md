@@ -11,10 +11,6 @@ https://github.com/tesseract-ocr/tesseract/releases
 
 > Par défaut: `C:\Program Files\Tesseract-OCR`
 
-### Python 3.12+
-
-Assurez-vous d'avoir Python 3.12 ou une version plus récente installée.(pas compatible python 3.13)
-
 ### Configuration de Dofus
 
 1. Assurez-vous que Dofus est configuré avec :
