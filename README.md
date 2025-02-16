@@ -37,6 +37,7 @@ https://github.com/tesseract-ocr/tesseract/releases
 1. Résolution d'écran : 1920x1080
 2. Windows 10/11 (testé sur)
 3. Clavier en disposition française (AZERTY)
+4. Overlay DESACTIVER (je penses a discord, qui cache les coordonnées en haut a gauche)
 
 ## Fonctionnalités
 
